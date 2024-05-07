@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("26981614", ""))
+API_HASH = getenv("8a52fcaf5cb495cabbd082471c9c2df6", "")
 
 # ADMIN DETAILS (Your ID) 
 OWNER_ID = int(getenv("OWNER_ID", ""))
